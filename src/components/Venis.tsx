@@ -8,7 +8,7 @@ const Venis: React.FC = () => {
       <h2 className="font-semibold text-6xl text-center mb-2 font-dance text-primary">¿Venís?</h2>
       <p className='text-lg font-sans px-4'>Cuento con tu presencia.<br/>¡Confirmá tu asistencia!</p>
       <img src={invitacionGif} alt="trajeGif" className='w-[120px] translate-x-3' />
-      <a href='https://docs.google.com/forms/d/e/1FAIpQLSc2rfP09zxjZZ3F-vYvmYQzGZCcZJLql_TTFPVdf6Jh1yceAQ/viewform?usp=sf_link'
+      <a href='https://forms.gle/hzTEF4SyoCLW29vJA'
         target='_blank'
         className='mt-6 shadow-3xl rounded-full p-4 font-sans bg-primary text-white'>CONFIRMAR ASISTENCIA</a>
     </div>

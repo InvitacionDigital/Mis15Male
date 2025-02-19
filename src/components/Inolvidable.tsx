@@ -1,6 +1,6 @@
 import React from 'react';
 import fotosGif from '/fotosGif.gif';
-import Slider from './Slider';
+// import Slider from './Slider';
 
 const Inolvidable: React.FC = () => {
   return (
@@ -8,7 +8,7 @@ const Inolvidable: React.FC = () => {
       
       <h2 className="font-semibold text-6xl text-center mb-2 font-dance text-primary">¡Que sea inolvidable!</h2>
       
-      <Slider />
+      {/* <Slider /> */}
       <img src={fotosGif} alt="fotosGif" className='w-[100px]' />
     </div>
   );

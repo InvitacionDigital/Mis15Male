@@ -10,8 +10,8 @@ import Regalo from "./components/Regalo"
 import Footer from "./components/Footer"
 import Music from "./components/Music"
 
-import foto4 from "/foto4.jpeg"
-import foto5 from "/foto5.jpeg"
+// import foto4 from "/foto4.jpeg"
+// import foto5 from "/foto5.jpeg"
 import Canciones from "./components/Canciones"
 
 
@@ -25,9 +25,9 @@ function App() {
       <Phrase />
       <CountDown />
       <Ceremony />
-      <img src={foto4} alt="foto4" className="w-full mt-10" />
+      {/* <img src={foto4} alt="foto4" className="w-full mt-10" /> */}
       <DressCode />
-      <img src={foto5} alt="foto5" className="w-full mt-10" />
+      {/* <img src={foto5} alt="foto5" className="w-full mt-10" /> */}
       <Canciones />
       <Inolvidable />
       <Venis />
