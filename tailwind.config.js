@@ -28,6 +28,8 @@ export default {
         'golden3': '#ffbf80',
         'color': '#000000',
         'white': '#FFFFFF',
+        'silver': 'rgb(178, 178, 178)',
+        'dark-silver': 'rgb(140, 140, 140)',
       },
     },
   },
