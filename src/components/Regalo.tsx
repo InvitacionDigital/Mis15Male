@@ -14,6 +14,7 @@ const Regalo: React.FC = () => {
           
           {/* <p className="my-4">CBU: 0000003100010288640188</p> */}
           <p className="my-4 mb-8 text-center">Alias:<br></br> <strong>malee.sosaa</strong></p> 
+          <p className='text-center text-xs'> Habrá un buzón disponible en el salón para quienes deseen dejar un regalo en efectivo </p>
         </div>
       </Popup>
     </div>
